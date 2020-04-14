@@ -7,7 +7,7 @@ authors:
 - lnewby
 # resume download button
 btn:
-- url : "https://drive.google.com/open?id=1UwkQhWwwjdDTtM00VrFKDRFhMCaqQ5Xi"
+- url : "https://drive.google.com/open?id=1fZIcYXhfZqCWBpKHwuOHjOISbS_qXARE"
   label : "Download Resume"
 
 # Is this the primary user of the site?
@@ -65,7 +65,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/open?id=1UwkQhWwwjdDTtM00VrFKDRFhMCaqQ5Xi
+  link: https://drive.google.com/open?id=1fZIcYXhfZqCWBpKHwuOHjOISbS_qXARE
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lnewby@gmail.com"
