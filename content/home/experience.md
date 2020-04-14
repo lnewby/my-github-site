@@ -43,5 +43,14 @@ date_format = "Jan 2006"
   date_start = "2013-04-01"
   date_end = "2018-02-01"
   description = """Development team member responsible for researching and development of design stack and web present for Angie’s List web services."""
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Failure Free Reading"
+  company_url = "https://www.failurefreeonline.com/"
+  location = "Concord, NC"
+  date_start = "2005-06-01"
+  date_end = "2012-12-01"
+  description = """Responsible for managing a team of 5 people to ensure data integrity, accessibility, and visibility of web-based solutions."""
   
 +++
