@@ -32,63 +32,69 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   parcent = "80%" 
 
 [[feature]]
-  icon = "chart-line"
+  icon = "chess"
   icon_pack = "fas"
   name = "Game Design"
-  parcent = "80%"
+  parcent = "70%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "gamepad"
   icon_pack = "fas"
   name = "Game Development"
   parcent = "60%"
 
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
+  icon = "arrows-alt"
+  icon_pack = "fas"
   name = "Linear Algebra"
   parcent = "70%"
   
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
+  icon = "tools"
+  icon_pack = "fas"
   name = "Unity"
   parcent = "80%"
 
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
+  icon = "cubes"
+  icon_pack = "fas"
   name = "Blender 3D"
   parcent = "40%"
 
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
+  icon = "cubes"
+  icon_pack = "fas"
   name = "Maya"
   parcent = "50%"
 
 [[feature]]
-  icon = "searchengin"
+  icon = "adobe"
   icon_pack = "fab"
   name = "Adobe CC"
   parcent = "80%"
 
 [[feature]]
-  icon = "searchengin"
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "JavaScript"
+  parcent = "90%"
+
+[[feature]]
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   parcent = "80%"
 
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
+  icon = "code"
+  icon_pack = "fas"
   name = "C++"
   parcent = "50%"
 
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
-  name = "JavaScript"
-  parcent = "90%"
+  icon = "code"
+  icon_pack = "fas"
+  name = "C#"
+  parcent = "40%"
 
 +++
