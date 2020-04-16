@@ -4,8 +4,7 @@ summary: Using Oculus VR to make breathing exercises fun for children with cysti
 tags:
 - virtual reality
 - oculus
-- hospital
-- 
+- healthcare
 date: "2020-03-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -31,10 +30,10 @@ links:
   name: GDD
   url: ../../pdf/breathing_games_GDD.pdf
 
-- icon: github
-  icon_pack: fab
-  name: GitHub
-  url: https://github.com/SpirometerVR
+# - icon: github
+#  icon_pack: fab
+#  name: GitHub
+#  url: https://github.com/SpirometerVR
 
 
 ---
