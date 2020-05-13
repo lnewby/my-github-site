@@ -1,5 +1,5 @@
 ---
-title: Breathing Games
+title: Breathe Free
 summary: Using Oculus VR to make breathing exercises fun for children with cystic fibrosis.
 tags:
 - virtual reality
@@ -8,7 +8,7 @@ tags:
 date: "2020-03-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://spirometervr.github.io"
+external_link: "https://spirometervr.github.io/breathe"
 
 image:
   caption: Virtual reality with a purpose
@@ -29,12 +29,6 @@ links:
   icon_pack: fas
   name: GDD
   url: ../../pdf/breathing_games_GDD.pdf
-
-# - icon: github
-#  icon_pack: fab
-#  name: GitHub
-#  url: https://github.com/SpirometerVR
-
 
 ---
 
