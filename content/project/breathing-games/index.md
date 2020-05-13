@@ -8,7 +8,7 @@ tags:
 date: "2020-03-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://spirometervr.github.io"
 
 image:
   caption: Virtual reality with a purpose
