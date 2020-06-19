@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Lance Newby
+name: Michael Vahn
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
-- lnewby
+- admin
 # resume download button
 btn:
 - url : "https://sourcethemes.com/academic/docs/install/"

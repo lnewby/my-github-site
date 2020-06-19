@@ -78,6 +78,6 @@ email: "lnewby@gmail.com"
 # example of an image link ![reviews](../../img/certifacates.jpg)
 ---
 
-Lance Newby is a master of computer science student focusing in game development at USC. His research interest include inclusive game design, games for health and machine learning for games. He is leading an interdisplinary team as Game Director for Skyfarer, a mixed reality action-adventure game for shoulder pain rehabilitation.
+Lance Newby is a master of computer science student focusing in game development at USC. His research interest include inclusive game design, games for health and machine learning for games. He is leading an interdisciplinary team as Game Director for Skyfarer, a mixed reality action-adventure game for shoulder pain rehabilitation.
 
 

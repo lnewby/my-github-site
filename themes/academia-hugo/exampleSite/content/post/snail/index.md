@@ -3,8 +3,9 @@ title: 'A Study of Snail Behavior'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
-- lnewby
+- admin
 tags:
+- academia
 categories: []
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"

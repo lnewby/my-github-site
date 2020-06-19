@@ -1,7 +1,7 @@
 ---
 title: "An example preprint / working paper"
 authors:
-- lnewby
+- admin
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -23,6 +23,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
+tags:
+- Source Themes
 featured: false
 
 links:
