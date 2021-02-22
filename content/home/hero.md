@@ -42,4 +42,4 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Lance Newby** and I'm a **Graduate Student** specializing in **Game Design for Health**
+## My name is **Lance Newby** and I'm a **USC Graduate** specializing in **Game Design for Health**

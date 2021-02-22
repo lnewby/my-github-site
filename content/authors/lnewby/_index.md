@@ -22,7 +22,7 @@ organizations:
   url: "https://games.usc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include inclusive game design, games for health and machine learning for games.
+bio: My research interests include Inclusive Game Design, Games for Health, and Machine Learning for Games.
 
 # Should the user's education and interests be displayed?
 display_education: true
@@ -78,6 +78,6 @@ email: "lnewby@gmail.com"
 # example of an image link ![reviews](../../img/certifacates.jpg)
 ---
 
-Lance Newby is a master of computer science student focusing in game development at USC. His research interest include inclusive game design, games for health and machine learning for games. He is leading an interdisciplinary team as Game Director for Skyfarer, a mixed reality action-adventure game for shoulder pain rehabilitation.
+Lance Newby is a master of computer science graduate focusing in game development at USC. His research interest include Inclusive Game Design, Games for Health, and Machine Learning for Games. He lead an interdisciplinary team as Game Director for Soulfarer, a mixed reality action-adventure game for shoulder pain rehabilitation.
 
 

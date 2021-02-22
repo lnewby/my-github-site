@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Game Director for Skyfarer"
+  title = "Game Director for Soulfarer"
   company = "USC Games"
   company_url = "https://games.usc.edu/"
   location = "Los Angeles, CA"
   date_start = "2019-04-01"
-  date_end = ""
-  description = """Skyfarer is a mixed reality action-adventure game for shoulder pain rehabilitation."""
+  date_end = "2020-05-12"
+  description = """Soulfarer is a mixed reality action-adventure game for shoulder pain rehabilitation."""
 
 [[experience]]
   title = "Diversity Senator - Viterbi Grad Student Association"
@@ -51,6 +51,6 @@ date_format = "Jan 2006"
   location = "Concord, NC"
   date_start = "2005-06-01"
   date_end = "2012-12-01"
-  description = """Responsible for managing a team of 5 people to ensure data integrity, accessibility, and visibility of web-based solutions."""
+  description = """Managed a 5-person team to ensure data integrity, accessibility, and visibility of web-based language learning solutions."""
   
 +++

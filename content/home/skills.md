@@ -24,7 +24,7 @@ subtitle = "I AM GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon = "chess"
   icon_pack = "fas"
   name = "Game Design"
-  parcent = "70%"
+  parcent = "50%"
   
 [[feature]]
   icon = "gamepad"
@@ -42,7 +42,7 @@ subtitle = "I AM GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon = "tools"
   icon_pack = "fas"
   name = "Unity"
-  parcent = "80%"
+  parcent = "70%"
 
 [[feature]]
   icon = "cubes"
@@ -78,7 +78,7 @@ subtitle = "I AM GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon = "code"
   icon_pack = "fas"
   name = "C++"
-  parcent = "50%"
+  parcent = "60%"
 
 [[feature]]
   icon = "code"
